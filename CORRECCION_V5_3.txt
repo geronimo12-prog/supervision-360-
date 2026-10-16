@@ -1,0 +1,4 @@
+Se corrigió la URL del proyecto Supabase: ftsxygpvaxtkakemaleo.supabase.co (antes tenía x y s intercambiadas).
+Subir config.js a la raíz del repositorio GitHub o subir el ZIP completo sin archivos secretos.
+Luego esperar el despliegue de Netlify, abrir /config.js y pulsar Ctrl+Shift+R.
+No usar ni publicar la clave secreta. Revocar la clave secreta compartida desde Supabase.
