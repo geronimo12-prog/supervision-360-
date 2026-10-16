@@ -1,6 +1,5 @@
-// Configurá estos dos campos con la URL y la clave PUBLICABLE de tu proyecto Supabase.
-// No incluyas nunca claves secret, service_role ni contraseñas.
+// Supervisión 360° — conexión pública Supabase (nunca claves secretas)
 window.SUPERVISION_CONFIG = {
-  supabaseUrl: 'https://TU-PROYECTO.supabase.co',
-  supabaseAnonKey: 'TU-CLAVE-PUBLICABLE-O-ANON'
+  supabaseUrl: 'https://ftxsygpvaxtkakemaleo.supabase.co',
+  supabaseAnonKey: 'sb_publishable_hd_Tt88TRjuW4fKQUOSYyA_FTb5bEuV'
 };
